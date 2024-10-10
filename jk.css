@@ -1,0 +1,203 @@
+a {
+	color: navy;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+.article_title {
+	font-weight: bold;
+}
+
+.author_list {
+	font-style: italic;
+}
+
+body {
+	background-color: #F0F0FF;
+}
+
+.button {
+	text-align: center;
+	color: #CCCCFF;
+	height: 120px;
+	width: 120px;
+	line-height: 120px;
+	border-color: #6495ED;
+	border-radius: 50%;
+	border-style: solid;
+	border-width: 2px;
+	display: inline-block;
+	margin: 16px;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.button:hover {
+	background-color: #CCCCFF;
+	color: navy;
+}
+
+.button_crimson {
+	background-color: #BC105C;
+}
+
+.button_indigo {
+	background-color: #4B0082;
+}
+
+.button_panel {
+	align-content: center;
+	display: flex;
+	width: 100%;
+}
+
+.button_teal {
+	background-color: #008080;
+}
+
+.column {
+	margin-top: 64px;
+	margin-bottom: 64px;
+	margin-left: 16px;
+	margin-right: 16px;
+	align-content: center;
+}
+
+.conference_article {
+	color: #008888;
+}
+
+#footer {
+	margin: 16px;
+	display: flex;
+	justify-content: space-evenly;*/
+}
+
+.footer_section {
+	margin: 16px;
+	width: 20%;
+}
+
+h1 {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 56px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h4 {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 4px;
+}
+
+.jk_mention {
+	color: navy;
+}
+
+.journal_article {
+	color: #880088;
+}
+
+#main {
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+.poster_abstract {
+	color: #008800;
+}
+
+.section {
+	border-bottom: 1px solid #6495ED;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+table {
+	border-style: solid;
+	border-color: #CCCCFF;
+	border-width: 3px;
+	border-collapse: collapse;
+}
+
+.table_aalborg {
+	background-color: #FFDDDD;
+}
+
+.table_bielefeld {
+	background-color: #D0D0D0;
+}
+
+.table_brno {
+	background-color: #DDFFDD;
+}
+
+.table_cell_content {
+	margin-left: 16px;
+	margin-right: 16px;
+	margin-bottom: 4px;
+	margin-top: 4px;
+}
+
+.table_harvard {
+	background-color: #FFBBDD;
+}
+
+.table_japan {
+	background-color: #FFDDBB;
+}
+
+.table_odense {
+	background-color: #CCFFFF;
+}
+
+.table_paris {
+	background-color: #DDBBFF;
+}
+
+.table_wien {
+	background-color: #DDDDFF;
+}
+
+td {
+	border-style: solid;
+	border-color: #CCCCFF;
+	border-width: 2px;
+	border-collapse: collapse;
+}
+
+.technical_report {
+	color: #000088;
+}
+
+#top_menu {
+	margin:16px;
+	align-content: center;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.top_menu_link {
+	margin: 8px;
+	text-decoration: none;
+	float: right;
+}
+
+.top_menu_title {
+	margin-left: 32px;
+	margin-right: 32px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+.workshop_article {
+	color: #888800;
+}
