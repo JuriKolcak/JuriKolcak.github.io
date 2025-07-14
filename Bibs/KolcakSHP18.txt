@@ -1,0 +1,17 @@
+@Article {
+	KolcakSHP18,
+	author		= {Juri Kol{\v{c}}{\'a}k and David {\v{S}}afr{\'a}nek and Stefan Haar and Lo{\"i}c Paulev{\'e}},
+	day			= {13}
+	doi			= {10.1016/j.entcs.2018.03.009},
+	editor		= {Guido Sanguinetti and David {\v{S}}afr{\'a}nek}
+	issn		= {1571-0661},
+	journal		= {Electronic Notes in Theoretical Computer Science},
+	month		= {Apr}
+	note		= {7th International Workshop on Static Analysis and Systems Biology (SASB 2016)},
+	pages		= {67--90},
+	publisher	= {Elsevier B.V.}
+	title		= {Unfolding of Parametric Boolean Networks},
+	url			= {https://doi.org/10.1016/j.entcs.2018.03.009},
+	volume		= {335},
+	year		= {2018}
+}

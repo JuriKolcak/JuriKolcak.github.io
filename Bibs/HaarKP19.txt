@@ -1,0 +1,14 @@
+@InProceedings {
+	HaarKP19,
+	address		= {Cham, Switzerland},
+	author		= {Stefan Haar and Juri Kol{\v{c}}{\'a}k and Lo{\"i}c Paulev{\'e}},
+	booktitle	= {Verification, Model Checking, and Abstract Interpretation},
+	doi			= {10.1007/978-3-030-11245-5_26},
+	editor		= {Constantin Enea and Ruzica Piskac},
+	isbn		= {978-3-030-11245-5},
+	pages		= {555--576},
+	publisher	= {Springer International Publishing},
+	title		= {Combining Refinement of Parametric Models with Goal-Oriented Reduction of Dynamics},
+	url			= {https://doi.org/10.1007/978-3-030-11245-5_26},
+	year		= {2019},
+}
