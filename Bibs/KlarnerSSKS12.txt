@@ -1,0 +1,14 @@
+@InProceedings {
+	KlarnerSSKS12,
+	address		= {Berlin, Heidelberg},
+	author		= {Hannes Klarner and Adam Streck and David {\v{S}}afr{\'a}nek and Juri Kol{\v{c}}{\'a}k and Heike Siebert},
+	booktitle	= {Computational Methods in Systems Biology},
+	doi			= {10.1007/978-3-642-33636-2_13},
+	editor		= {David Gilbert and Monika Heiner},
+	isbn		= {978-3-642-33636-2},
+	pages		= {207--226},
+	publisher	= {Springer},
+	title		= {Parameter Identification and Model Ranking of Thomas Networks},
+	url			= {https://doi.org/10.1007/978-3-642-33636-2_13},
+	year		= {2012}
+}
