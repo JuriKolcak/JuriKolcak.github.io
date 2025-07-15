@@ -1,0 +1,14 @@
+@Article {
+	KolcakSHP19,
+	author		= {Juri Kol\v{c}{\'a}k and David \v{S}afr{\'a}nek and Stefan Haar and Lo{\"i}c Paulev{\'e}},
+	doi			= {10.1016/j.tcs.2018.03.009},
+	issn		= {0304-3975},
+	journal		= {Theoretical Computer Science},
+	note		= {Formal Verification and Static Analysis of Molecular Devices and Biological Systems},
+	pages		= {120-144},
+	publisher	= {Elsevier B.V.}
+	title		= {Parameter space abstraction and unfolding semantics of discrete regulatory networks},
+	url			= {https://doi.org/10.1016/j.tcs.2018.03.009},
+	volume		= {765},
+	year		= {2019}
+}

@@ -1,0 +1,11 @@
+@Misc {
+      AndersenFKLMN22,
+      archivePrefix     = {arXiv},
+      author            = {Jakob L. Andersen and Rolf Fagerberg and Juri Kol\v{c}{\'a}k and Christophe V.F.P. Laurent and Daniel Merkle and Nikolai N{\o}jgaard},
+      doi               = {10.48550/arXiv.2201.04360},
+      eprint            = {2201.04360},
+      primaryClass      = {cs.DM},
+      title             = {Efficient Modular Graph Transformation Rule Application},
+      url               = {https://doi.org/10.48550/arXiv.2201.04360},
+      year              = {2022}
+}

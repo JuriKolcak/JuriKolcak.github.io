@@ -1,0 +1,12 @@
+@InProceedings {
+	KolcakDHKSY20,
+	address		= {Cham, Switzerland},
+	author		= {Juri Kol{\v{c}}{\'a}k and J{\'e}r{\'e}my Dubut and Ichiro Hasuo and Shin-ya Katsumata and David Sprunger and Akihisa Yamada},
+	booktitle	= {Tools and Algorithms for the Construction and Analysis of Systems},
+	editor		= {Armin Biere and David Parker},
+	isbn		= {978-3-030-45190-5},
+	pages		= {191--208},
+	publisher	= {Springer International Publishing},
+	title		= {Relational Differential Dynamic Logic},
+	year		= {2020}
+}

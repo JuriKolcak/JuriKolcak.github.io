@@ -1,0 +1,16 @@
+@Article {
+	AndersenFFFKLMN22,
+	author		= {Jakob L. Andersen and Rolf Fagerberg and Christoph Flamm and Walter Fontana and Juri Kol{\v{c}}{\'a}k and Christophe V.F.P. Laurent and Daniel Merkle and Nikolai N{\o}jgaard},
+	day			= {28},
+	doi			= {10.1021/acs.jcim.2c00426},
+	issn		= {1549-9596},
+	journal		= {Journal of Chemical Information and Modeling},
+	month		= {Nov},
+	number		= {22},
+	pages		= {5513--5524},
+	publisher	= {American Chemical Society},
+	title		= {Representing Catalytic Mechanisms with Rule Composition},
+	url			= {https://doi.org/10.1021/acs.jcim.2c00426},
+	volume		= {62},
+	year		= {2022}
+}

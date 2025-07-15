@@ -1,0 +1,16 @@
+@InProceedings {
+	KolcakHDKSY19,
+	address		= {New York, NY, USA},
+	author		= {Juri Kol\v{c}{\'a}k and Ichiro Hasuo and J{\'e}r{\'e}my Dubut and Shin-ya Katsumata and David Sprunger and Akihisa Yamada},
+	booktitle	= {Proceedings of the 22nd ACM International Conference on Hybrid Systems: Computation and Control},
+	doi			= {10.1145/3302504.3313362},
+	isbn		= {9781450362825},
+	location	= {Montreal, Quebec, Canada},
+	numpages	= {2},
+	pages		= {284--285},
+	publisher	= {Association for Computing Machinery},
+	series		= {HSCC '19},
+	title		= {Relational differential dynamic logic: poster abstract},
+	url			= {https://doi.org/10.1145/3302504.3313362},
+	year		= {2019}
+}

@@ -1,0 +1,14 @@
+@Article {
+    AndersenFFFKLMN21,
+    author      = {Jakob L. Andersen and Rolf Fagerberg and Christoph Flamm and Walter Fontana and Juri Kol\v{c}{\'a}k and Christophe V.F.P. Laurent and Daniel Merkle and Nikolai N{\o}jgaard},
+    doi         = {10.1093/bioinformatics/btab296},
+    issn        = {1367-4803},
+    journal     = {Bioinformatics},
+    month       = {Jul},
+    number      = {Supplement_1},
+    pages       = {i392--i400},
+    title       = {Graph transformation for enzymatic mechanisms},
+    url         = {https://doi.org/10.1093/bioinformatics/btab296},
+    volume      = {37},
+    year        = {2021}
+}
