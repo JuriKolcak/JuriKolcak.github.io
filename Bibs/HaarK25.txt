@@ -1,0 +1,16 @@
+@InProceedings{
+    HaarK25,
+    address			= {Cham, Switzerland},
+    author			= {Stefan Haar and Juri Kol{\v{c}}{\'a}k},
+    booktitle		= {Computational Methods in Systems Biology},
+    day				= {19},
+    doi				= {10.1007/978-3-032-01436-8_6},
+    editor			= {Fran{\c{c}}ois Fages and Sabine P{\'e}r{\`e}s},
+    isbn			= {978-3-032-01436-8},
+    month			= {Aug},
+    pages			= {89--105},
+    publisher		= {Springer Nature},
+    title			= {Continuous Petri Nets Faithfully Fluidify Most Permissive Boolean Networks},
+    url				= {https://doi.org/10.1007/978-3-032-01436-8_6},
+    year			= {2025}
+}
