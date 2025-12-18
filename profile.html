@@ -22,6 +22,68 @@
         <h1>Profile</h1>
       </div>
     </div>
+
+    <div class="section">
+      <div class="topic_list">
+        <div class="topic_panel topic_panel_gt">
+          <h2 class="topic_header_odd">Graph Transformation</h2>
+          <div class="topic_content_odd">
+            <p>
+              Graph Transformation (also graph rewriting) is a rewriting system on graphs.
+              Unsurprisingly, graph transformation constitutes a universal model of computation and has numerous applications in software engineering.
+              Formally, graph transformation is an algebraic method, based on category theory.
+              Nonetheless, graph transformation applications are often very intuitive, owning largely to the visual nature of graphs.
+            </p>
+            <p>
+              Within my work, the focus was on application of graph transformation to chemistry.
+              "Drawing" molecules as graphs is very intuitive, and graphs have been a visual tool of chemists since the mid-19th century.
+              Graph transformation rules then capture the chemical reactions, transforming the input molecules into output molecules.
+              More precisely, each graph transformation rule specifies a class of reactions that perform the same chemical transformation, characterised by the graph pattern being rewritten.
+              A graph transformation rule thus models a physico-chemical mechanism of a class of chemical reactions.
+            </p>
+            <p>
+              My focus has specifically been enzymatic reactions in biochemistry.
+              Enzymatic reactions are specific in that the performed transformations are often very indirect and can be thought of as proceeding through a sequence of elementary reaction steps with a net energetically favourable effect.
+              I worked on a technique to exploit the knowledge of such elementary steps, or enzymatic mechanisms, for some enzymatic reactions, to extrapolate and propose detailed mechanisms for other reactions as well [<a href="https://doi.org/10.1093/bioinformatics/btab296" target="_blank" class="topic_article_link">2021</a>].
+            </p>
+            <p>
+              The individual steps of the enzymatic mechanisms often "undo" the effects of the previous ones, achieving the desired bond rearrangement by shifting charges between electron donor and acceptor groups of the molecules involved.
+              Such transient changes to the molecular structure are invisible at the level of the overall enzymatic reaction.
+              I have therefore worked to develop a fully formal method for classification of enzymatic reactions, and a clear visualisation of any transient transformations, which delimit crucial components of the molecules that allow the reaction to proceed [<a href="https://doi.org/10.1021/acs.jcim.2c00426" target="_blank" class="topic_article_link">2022</a>].
+            </p>
+            <p>
+              Last but not least, while staying true to the motivation in chemical application, I have worked on a method to automatically extract a set of graph transformation rules from empirical data, such as chemical reaction networks.
+              The method is very general and can likely be adapted to other rewriting systems without much modification.
+              It also ties directly into computing fundamentals via the notion of Kolmogorov complexity [<a href="https://arxiv.org/abs/2404.02692" target="_blank" class="topic_article_link">TBD</a>].
+            </p>
+          </div>
+        </div>
+        <div class="topic_panel topic_panel_bn">
+          <h2 class="topic_header_even">Boolean Networks</h2>
+          <div class="topic_content_even">
+            <p>
+              Boolean networks are a discrete dynamical model of interacting entities.
+              Boolean networks consist of a finite set of variables and pairwise directed interactions between them, often signed (positive, negative).
+              All variables of a Boolean network can only take on one of two values, 1 or 0, often read "active" or "inactive".
+              The updates to variable updates are described in the realm of Boolean algebra, where the name of the model derives from.
+            </p>
+            <p>
+              While mechanistically simple, the interplay of various combinations of active and inactive interactions, as given by active and inactive variables, gives Boolean networks the ability to capture a wide range of dynamics, including but not limited to, multi-stationarity and multi-stability, long-range correlation and oscillation.
+            </p>
+            <p>
+              My work with Boolean networks has been largely centered around network inference by means of a formal verfication of an ensemble of plausible models [<a href="https://doi.org/10.1016/j.tcs.2018.03.009" target="_blank" class="topic_article_link">2019a</a>], and model reduction on top of such ensembles [<a href="https://doi.org/10.1007/978-3-030-11245-5_26" target="_blank" class="topic_article_link">2019b</a>].
+              I have also contributed to the development of most permissive semantics of Boolean networks [<a href="https://doi.org/10.1038/s41467-020-18112-5" target="_blank" class="topic_article_link">2020a</a>].
+              Finally, my interest lies in understanding the expressivity of Boolean networks with respect to other dynamical models, especially Petri nets [<a href="https://doi.org/10.1007/s11047-019-09748-4" target="_blank" class="topic_article_link">2020b</a>;<a href="https://doi.org/10.1007/978-3-032-01436-8_6" target="_blank" class="topic_article_link">2025</a>].
+            </p>
+            <p>
+              My current focus are novel application areas for Boolean networks, and tackling the challenges that arise within.
+              Life science application beyond gene regulation and cell signalling are of particular interest, both because of numerous interaction-driven complex systems, and due to the ability to benefit from the top-down abstraction potential of Boolean networks, as the systems are generally not fully understood.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="section">
       <div class="column">
         <table>
