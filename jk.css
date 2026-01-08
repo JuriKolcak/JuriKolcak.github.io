@@ -239,11 +239,11 @@ td {
 }
 
 .topic_panel_bn {
-	background-image: url('./bn_background.png');
+	background-image: url('bn_background.png');
 }
 
 .topic_panel_gt {
-	background-image: url('./gt_background.png');
+	background-image: url('gt_background.png');
 }
 
 .workshop_article {
