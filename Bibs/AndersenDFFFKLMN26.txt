@@ -1,0 +1,13 @@
+@Article {
+    AndersenDFFFKLMN26,
+    author      = {Jakob L. Andersen and Akbar Davoodi and Rolf Fagerberg and Christoph Flamm and Walter Fontana and Juri Kol\v{c}{\'a}k and Christophe V.F.P. Laurent and Daniel Merkle and Nikolai N{\o}jgaard},
+	day			= {20}
+    doi         = {10.46298/fi.13347},
+    issn        = {1875-8681},
+    journal     = {Fundamenta Informaticae},
+    month       = {Aug},
+    title       = {Automated Inference of Graph Transformation Rules},
+    url         = {https://doi.org/10.46298/fi.13347},
+    volume      = {Volume 196, Issue 1},
+    year        = {2026}
+}
