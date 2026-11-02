@@ -1,0 +1,15 @@
+@Article{
+    JordonKM26,
+    author			= {Addie Jordon and Juri Kol{\v{c}}{\'a}k and Daniel Merkle},
+    day				= {31},
+    doi				= {10.1007/s11047-026-10092-7},
+    journal			= {Natural Computing},
+    issn			= {1572-9796},
+    month			= {Oct},
+	number			= {2},
+    pages			= {38},
+    title			= {Continuous Petri nets for biochemical network analysis}
+    url				= {https://doi.org/10.1007/s11047-026-10092-7},
+	volume			= {25},
+    year			= {2026}
+}
